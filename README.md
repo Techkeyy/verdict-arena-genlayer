@@ -23,7 +23,7 @@ XP is distributed on-chain through a live leaderboard.
 
 ## Deployed Contract
 Network: GenLayer Testnet
-Address: [0xb034718b09A88A7eA237677C6343fd2Abb39Ca7D]
+Address: 0xb034718b09A88A7eA237677C6343fd2Abb39Ca7D
 
 ## Setup
 Deploy `contracts/verdict_arena.py` in https://studio.genlayer.com
