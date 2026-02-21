@@ -16,16 +16,6 @@
 3. Players call `submit_argument("a" or "b", "their argument text")`
 4. After 5-10 minutes, host calls `judge_all()`
 5. Anyone calls `get_leaderboard()` to see XP results
-```
 
-5. Click **"Commit changes"** → confirm
 
----
 
-### What Your Repo Should Look Like When Done
-```
-verdict-arena-genlayer/
-├── contracts/
-│   └── verdict_arena.py
-├── README.md
-└── DEPLOY.md
